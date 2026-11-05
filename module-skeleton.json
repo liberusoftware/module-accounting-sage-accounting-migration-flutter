@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-sage-accounting-migration-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-sage-accounting-migration",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_sage_accounting_migration_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/sage-accounting-migration.md",
+  "presentationPlan": "projects/accounting/flutter/sage-accounting-migration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
